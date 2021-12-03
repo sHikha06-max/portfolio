@@ -1,0 +1,21 @@
+.front {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(24, 119, 242) !important;
+    margin: auto;
+    text-align: center;
+  }
+  .f1{
+      margin: auto;
+  }
+@media (max-width:500px) {
+    .logo{
+        width: 20px;
+        height: 20px;
+    }
+}
+.logo{
+    text-align: center;
+}
+
+  
