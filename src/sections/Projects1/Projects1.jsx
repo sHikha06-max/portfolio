@@ -37,15 +37,18 @@ export const Projects1 = () =>{
         }}>
         <div style={{
             width:"50px",
-            marginLeft:"8px"
+            marginLeft:"8px",
+            textAlign:"center"
         }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt=""/><br/>HTML</div>
         <div style={{
           width:"50px",
-          marginLeft:"8px"
+          marginLeft:"8px",
+          textAlign:"center"
       }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/css3.png" alt=""/><br/>CSS</div>
       <div style={{
           width:"50px",
-          marginLeft:"8px"
+          marginLeft:"8px",
+          textAlign:"center"
       }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/javascript.png" alt=""/><br/>JS</div>
       </div>
           </div>
@@ -85,15 +88,18 @@ export const Projects1 = () =>{
           }}>
           <div style={{
               width:"50px",
-              marginLeft:"8px"
+              marginLeft:"8px",
+              textAlign:"center"
           }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt=""/><br/>HTML</div>
           <div style={{
             width:"50px",
-            marginLeft:"8px"
+            marginLeft:"8px",
+            textAlign:"center"
         }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/css3.png" alt=""/><br/>CSS</div>
         <div style={{
             width:"50px",
-            marginLeft:"8px"
+            marginLeft:"8px",
+            textAlign:"center"
         }}><img className="img-fluid" src="https://img.icons8.com/color/480/000000/javascript.png" alt=""/><br/>JS</div>
        
         </div>
